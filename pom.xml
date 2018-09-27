@@ -161,7 +161,7 @@
         <warFile>target\spring-petclinic-1.5.1.war</warFile> 
         <path>/petclinic</path> 
 	<username>admin</username>
-        <password>Chester111698@</password>
+        <password>admin</password>
         </configuration> 
         </plugin> 
 
